@@ -30,10 +30,10 @@ Finally, I am a Data Analyst. I have always been extremely passionate and partic
 ---
 
 ### 🏎 Ongoing Project
-<a href="https://github.com/MitchellGleason/github-readme-stats">
+<a href="https://github.com/MitchellGleason/F1-Data-Analysis--Wet-Races">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MitchellGleason&theme=github_dark&repo=F1-Data-Analysis--Wet-Races" />
 </a>
-<a href="https://github.com/MitchellGleason/convoychat">
+<a href="https://github.com/MitchellGleason/F1-Data-Analysis--Mechanical-Retirements">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MitchellGleason&theme=github_dark&repo=F1-Data-Analysis--Mechanical-Retirements" />
 </a>
 
