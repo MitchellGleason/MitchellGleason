@@ -2,9 +2,7 @@
 
 **`Data_Analyst['Statistics', 'Visualization', 'Machine Learning']`**
 
-I used to be a musician. Then I was a photographer, an academic and a graphic designer.
-
-Finally, I am a Data Analyst. I have always been extremely passionate and particularly obsessive about what I do in and out of the workplace. I am lucky enough now to have found a career that I am not only passionate and obsessive about, but which also requires the best of what I have learned from my past.
+I am a data analyst who looks to bring a history of creative skills and problem solving to the logical and object-oriented thought processes required in programming. I have always been extremely passionate and particularly obsessive about what I do in and out of the workplace. I am lucky enough now to have found a career that I am not only passionate and obsessive about, but which also requires the best of what I have learned from my past.
 
 ---
 
